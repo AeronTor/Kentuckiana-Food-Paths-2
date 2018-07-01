@@ -1,0 +1,22 @@
+/* Zilla slab, Quicksand*/
+
+/* Jumbotron styling */
+
+.jumbotron {
+    background-image: url(img/sunwheat.jpeg)  ;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+
+
+}
+
+.nav-link {
+
+    color: white;
+}
+
