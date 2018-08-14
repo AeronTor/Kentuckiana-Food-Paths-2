@@ -2,7 +2,7 @@
 
 /* Jumbotron styling */
 
-.jumbotron {
+.jumbotron1 {
     background-image: url(img/sunwheat.jpeg)  ;
     padding-top: 10%;
     padding-bottom: 10%;
@@ -13,10 +13,26 @@
     font-size: 20em;
   }
 
+/* #definition {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: #41516b;
+    height: 15%;
+
+} */
+#def {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color:#000;
+    top: 0;
+    left: 0;
+ }
 
 
 
-}
+
 
 .nav-link {
 
